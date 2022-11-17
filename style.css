@@ -16,3 +16,41 @@
     width:100%;
     height:500px;
 }
+
+#footerimg{
+    align-items: center;
+    font-style:normal;
+    color:white;
+}
+
+.footer{
+    background-color:#C876C4;
+}
+
+body{ 
+    background-image: url("https://th.bing.com/th/id/OIP.xAImYPr4lsjgMcawy1iEJgHaHa?pid=ImgDet&w=193&h=193&c=7");
+}
+
+.vl {
+    border-left: 3px solid #C876C4;
+    height: 500px;
+}
+
+.number{
+
+    left: 6.87%;
+    right: 69.63%;
+    top: 50.06%;
+    bottom: 12.58%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    text-decoration:none;
+    color: #edcfee;
+}
+
