@@ -1,14 +1,12 @@
 
 .classj{
-    background-color:#C876C4;
+    background-color:#e29de0;
     text-align:center;
 }
+
 .fard{
-    align-content:center;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:27px;
-    text-align:center;
-    margin-right:200px;
+    font-family: 'K2D' , sans-serif;
+    font-size:40px;
     color:white;
 }
 
@@ -37,7 +35,6 @@ body{
 }
 
 .number{
-
     left: 6.87%;
     right: 69.63%;
     top: 50.06%;
