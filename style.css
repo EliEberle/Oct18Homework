@@ -1,13 +1,16 @@
 
+
 .classj{
     background-color:#e29de0;
     text-align:center;
+    box-shadow: 1px 1px 5px
 }
 
 .fard{
     font-family: 'K2D' , sans-serif;
-    font-size:40px;
+    font-size:300%;
     color:white;
+    word-spacing: 20px;
 }
 
 .caro{
@@ -19,6 +22,7 @@
     align-items: center;
     font-style:normal;
     color:white;
+    margin-bottom:5%;
 }
 
 .footer{
@@ -26,7 +30,8 @@
 }
 
 body{ 
-    background-image: url("https://th.bing.com/th/id/OIP.o3TweOa0tydveQvs6EToJQHaHa?pid=ImgDet&rs=1");
+    background-image:url(img/th.png);
+    background-size:100%;
 }
 
 .vl {
@@ -39,7 +44,6 @@ body{
     right: 69.63%;
     top: 50.06%;
     bottom: 12.58%;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -47,16 +51,64 @@ body{
     display: flex;
     align-items: center;
     text-transform: capitalize;
-    text-decoration:none;
-    color: #edcfee;
+    color: white;
 }
 
 .title{
     color:#fffeff; 
-    font-size:40px; 
+    font-size:60px; 
     text-align:center;
 }
 
+
+.classp{
+    background-color: gray;
+    margin-left: 480px;
+    margin-left: -480px;
+}
+.classs{
+    background-color: gray;
+    margin-right: 90px;
+    text-align: center;
+}
+.classc{
+    background-color: gray;
+    margin-left: 90px;
+}
+h1{
+    color:white;
+    font-family: 'Allura Script', sans-serif;
+}
+.board{
+    
+    height:300px;
+    width:200px;
+}
+
+.vertical {
+    border-left: 2px solid #705454;
+    height: 210px;
+    position: absolute;
+    left: 32%;
+    top: 1;
+    bottom: -42%;
+  }
+  .vert{
+    border-left: 2px solid #705454;
+    height: 80px;
+    position: absolute;
+    left: 50%;
+    top: 1;
+    bottom: -60%;
+  }
+
 .card-body{
-    text-align:center;
+    border-radius:15px;
+    background-color:#f0f0f0
+}
+
+.TOC {
+    text-decoration:none;
+    color:#705454;
+    font-size:1.5vw;
 }
