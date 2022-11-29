@@ -112,3 +112,39 @@ h1{
     color:#705454;
     font-size:1.5vw;
 }
+
+.menu{
+    font-size:40px;
+    color:rgb(70,54,54);
+    text-align:center;
+}
+
+.desc{
+    font-size:15px;
+    text-align:left;
+    border-top:solid 1px;
+    border-right:solid 1px;
+    margin-right:49.7%;
+    margin-left:5px;
+}
+
+.price{
+    font-size:15px;
+    text-align:center;
+    border-top:solid 1px;
+    border-left:solid 1px;
+    margin-left:50%;
+}
+
+.gal{
+    background-color:#f0f0f0;
+    margin-left:10vw;
+    margin-right:10vw;
+    height:500px;
+}
+
+.gal .card-body{
+    background-color:white;
+    border-color:#e29de0;
+    border-style: solid;
+}
